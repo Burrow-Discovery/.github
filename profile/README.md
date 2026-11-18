@@ -5,9 +5,7 @@
   </picture>
 </p>
 
-<p align="center"><b>Open tools for structural biology.</b></p>
-
-<p align="center">Something is taking shape. More soon.</p>
+<h3 align="center">Something is taking shape. More soon.</h3>
 
 <p align="center">
   <img src="burrow-discovery-teaser-dark.svg" alt="One mark splits into three related marks, each moves in its own way, and they join again." width="100%">
